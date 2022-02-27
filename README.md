@@ -7,7 +7,7 @@ B站视频：https://www.bilibili.com/video/BV1xb4y177qG?share_source=copy_web
 牟天蔚
 peter_mu@163.com
 2022-02-27
-
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 第一章-水量预测请引用：
 [1]牟天蔚，蒋白懿，杨辉，等. 用水量预测系统V1.0[CP/CD]. 著作权登记号:2016SR155599.
 [2]蒋白懿,牟天蔚,王玲萍.灰色遗传神经网络模型对居民年需水量预测[J].给水排水,2018,54(01):137-142.
@@ -26,7 +26,7 @@ peter_mu@163.com
 第七章-爆管请引用：
 [1] T. Mu, Y. Ye, H. Tan, and C. Zheng, “Multistage iterative fully automatic partitioning in water distribution systems,” Water Supply, Oct. 2020, doi: 10.2166/ws.2020.288.
 
-——————————————————————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 English version:
 Bilibili Videos of water distribution system simulation.https://www.bilibili.com/video/BV1xb4y177qG?share_source=copy_web
 Thanks for viewing my video of water distribution system simulation in the bilibili website.
