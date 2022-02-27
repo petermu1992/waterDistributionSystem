@@ -1,5 +1,4 @@
 # waterDistributionSystem
-water Distribution System for my class in the bilibili
 感谢各位观看我的B站视频，并且基于我的代码进行修改使用。
 请各位手留余香，发表论文时时，欢迎引用我的论文(发英文，请看英文版）
 
