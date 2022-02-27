@@ -1,6 +1,5 @@
 # waterDistributionSystem
 B站视频：https://www.bilibili.com/video/BV1xb4y177qG?share_source=copy_web
-bilibili Videos of water distribution system simulation.
 感谢各位观看我的B站视频，并且基于我的代码进行修改使用。
 请各位手留余香，发表论文时时，欢迎引用我的论文(发英文，请看英文版）
 
@@ -29,8 +28,8 @@ peter_mu@163.com
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————
 English version:
-
-Thanks for viewing my video of water distribution system simulation in the bilibili website. https://www.bilibili.com/video/BV1xb4y177qG?share_source=copy_web
+Bilibili Videos of water distribution system simulation.https://www.bilibili.com/video/BV1xb4y177qG?share_source=copy_web
+Thanks for viewing my video of water distribution system simulation in the bilibili website.
 Meanwhile, thanks for using and modifying my codes to publish.
 However, please citing my articles when you use my codes. 
 
